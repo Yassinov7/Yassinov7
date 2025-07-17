@@ -24,7 +24,7 @@
 ### 📫 Let's Connect
 
 - 🌐 [Portfolio](https://crafted-by-yassine.vercel.app)
-- 💼 [LinkedIn]([https://www.linkedin.com/in/...](https://www.linkedin.com/in/mohammed-yassine-70499921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+- 💼 [LinkedIn]([[https://www.linkedin.com/in/...](https://www.linkedin.com/in/mohammed-yassine-70499921a?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)])
 - 🐦 [Twitter](https://twitter.com/...)
 - 📸 [Instagram](https://www.instagram.com/mhmmdyassine/)
 - 📬 Reach me: 02m.yassine@gmail.com
